@@ -1,0 +1,7 @@
+C:\Users\freed\source\repos\GeekseatTest\GeekseatTest\bin\Debug\GeekseatTest.exe.config
+C:\Users\freed\source\repos\GeekseatTest\GeekseatTest\bin\Debug\GeekseatTest.exe
+C:\Users\freed\source\repos\GeekseatTest\GeekseatTest\bin\Debug\GeekseatTest.pdb
+C:\Users\freed\source\repos\GeekseatTest\GeekseatTest\obj\Debug\GeekseatTest.csproj.AssemblyReference.cache
+C:\Users\freed\source\repos\GeekseatTest\GeekseatTest\obj\Debug\GeekseatTest.csproj.CoreCompileInputs.cache
+C:\Users\freed\source\repos\GeekseatTest\GeekseatTest\obj\Debug\GeekseatTest.exe
+C:\Users\freed\source\repos\GeekseatTest\GeekseatTest\obj\Debug\GeekseatTest.pdb
